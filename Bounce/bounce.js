@@ -8,7 +8,7 @@ window.addEventListener('resize',()=>{
 })
 
 
-//Distance
+//Distance2
 function getDistance(x2,x1,y1,y2){
     let xDistance=x2-x1;
     let yDistance=y2-y1;   
